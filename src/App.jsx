@@ -1,3 +1,4 @@
+import Footer from "./components/Footer/Footer"
 import Navbar from "./components/Navbar/Navbar"
 import Accesories from "./pages/Accesories"
 import BatteryLab from "./pages/BatteryLab"
@@ -30,6 +31,7 @@ function App() {
      <FullSpecs/>
      <Reviews/>
      <Accesories/>
+     <Footer/>
     </div>
   )
 }
