@@ -124,7 +124,7 @@ const MobileSpecs = () => {
                                 background: 'linear-gradient(283.53deg, #222F1C 1.32%, #3A4527 100%)'
 
                             }}
-                            className="rounded-lg p-5 pb-0 pr-0 w-[328px] h-[260px] md:w-[738px] md:h-[375px] flex overflow-hidden gap-5"
+                            className="rounded-lg p-5 pb-0 pr-0 w-[310px] h-[260px] md:w-[738px] md:h-[375px] flex overflow-hidden gap-5"
                         >
 
                             <div className="flex flex-col justify-between h-[100%] md:w-1/2">

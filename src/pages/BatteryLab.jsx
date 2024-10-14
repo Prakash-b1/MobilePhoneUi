@@ -43,7 +43,7 @@ const BatteryLab = () => {
     }, []);
 
     return (
-        <div className="p-20 bg-white " ref={sectionRef}>
+        <div className="p-10 md:p-20 bg-white " ref={sectionRef}>
             <div className="rounded-lg bg-[#212F1C] h-[520px] md:h-[720px] p-5 flex flex-col gap-10 overflow-hidden">
                 <p className="text-center text-[24px]  md:text-[35px]">Stay Supercharged; Battery Lab</p>
                 <div className="flex flex-col gap-5 justify-center item-start md:items-center">
