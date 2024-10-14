@@ -124,7 +124,7 @@ const MobileSpecs = () => {
                                 background: 'linear-gradient(283.53deg, #222F1C 1.32%, #3A4527 100%)'
 
                             }}
-                            className="rounded-lg p-5 pb-0 pr-0 w-[310px] h-[260px] md:w-[738px] md:h-[375px] flex overflow-hidden gap-5"
+                            className="rounded-lg p-5 pb-0 pr-0 w-[172px] h-[260px] md:w-[738px] md:h-[375px] flex overflow-hidden gap-5"
                         >
 
                             <div className="flex flex-col justify-between h-[100%] md:w-1/2">
@@ -145,8 +145,8 @@ const MobileSpecs = () => {
 
                             <div className="md:overflow-hidden relative w-full h-full">
                                 <div>
-                                    <img src={Rround} alt="" className="absolute bottom-0 right-0 z-10 sm:h-[202px] sm:w-[176px]" />
-                                    <img src={PhoneBaloon} alt="" className="absolute top-0 right-0 z-20 md:w-[320px] md:h-[386px]" />
+                                    <img src={Rround} alt="" className="absolute bottom-0 right-0 z-10 sm:h-[108px] sm:w-[176px]" />
+                                    <img src={PhoneBaloon} alt="" className="absolute top-[10rem] md:top-0 right-0 z-20 md:w-[320px] md:h-[386px] sm:h-[202px] sm:w-[176px]" />
                                 </div>
 
                             </div>
