@@ -1,11 +1,11 @@
 /* eslint-disable react/no-unknown-property */
 import { FaArrowRight } from "react-icons/fa6"
-import logo2 from "../assets/logo2.svg"
+import logo2 from "../../assets/logo2.svg"
 import { useState } from "react";
-import img2 from '../assets/bgimg.jpeg';
-import chargingPhone from '../assets/battery-charging.svg'
-import size from '../assets/size.svg'
-import slider from '../assets/slider.svg'
+import img2 from '../../assets/bgimg.jpeg';
+import chargingPhone from '../../assets/battery-charging.svg'
+import size from '../../assets/size.svg'
+import slider from '../../assets/slider.svg'
 import { AiFillThunderbolt } from "react-icons/ai";
 
 

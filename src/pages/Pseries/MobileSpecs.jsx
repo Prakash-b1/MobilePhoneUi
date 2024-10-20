@@ -1,18 +1,18 @@
-import round from "../assets/bground.svg";
-import powerplay from "../assets/powerplay.png"
-import phone6 from "../assets//phone6.png"
+import round from "../../assets/bground.svg";
+import powerplay from "../../assets/powerplay.png"
+import phone6 from "../../assets//phone6.png"
 import { IoCameraOutline } from "react-icons/io5";
-import K from "../assets/K.png"
-import phone7 from "../assets/phone7.png"
-import phone9 from "../assets/phone9.png"
-import phone7Vector from "../assets/phone7Vector.png"
-import phone9Vector from "../assets/phone8vector.png"
-import phone7Shadow from "../assets/phone7shadow.png"
-import Rround from "../assets/rightround.png"
-import PhoneBaloon from "../assets/phoneBaloon.png"
-import cutOut from "../assets/cutVector.svg"
-import vectorbg from "../assets/Vector.png"
-import speed from "../assets/speees.png"
+import K from "../../assets/K.png"
+import phone7 from "../../assets/phone7.png"
+import phone9 from "../../assets/phone9.png"
+import phone7Vector from "../../assets/phone7Vector.png"
+import phone9Vector from "../../assets/phone8vector.png"
+import phone7Shadow from "../../assets/phone7shadow.png"
+import Rround from "../../assets/rightround.png"
+import PhoneBaloon from "../../assets/phoneBaloon.png"
+import cutOut from "../../assets/cutVector.svg"
+import vectorbg from "../../assets/Vector.png"
+import speed from "../../assets/speees.png"
 
 const MobileSpecs = () => {
     return (

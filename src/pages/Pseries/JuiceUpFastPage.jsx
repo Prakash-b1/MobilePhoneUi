@@ -1,8 +1,8 @@
-import phone1 from "../assets/Phone1.svg"
-import img2 from "../assets/bgimg.jpeg"
+import phone1 from "../../assets/Phone1.svg"
+import img2 from "../../assets/bgimg.jpeg"
 import { BsFillLightningChargeFill } from "react-icons/bs";
 import { RiLightbulbFlashLine } from "react-icons/ri";
-import superelectricv from "../assets/electricsuper.svg"
+import superelectricv from "../../assets/electricsuper.svg"
 const JuiceUpFastPage = () => {
     return (
         <div

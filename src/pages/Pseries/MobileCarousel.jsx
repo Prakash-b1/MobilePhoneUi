@@ -1,13 +1,13 @@
 import { useState } from 'react';
-import carousel1 from "../assets/phoneCarousel/1.png";
-import carousel2 from "../assets/phoneCarousel/2.png";
-import carousel3 from "../assets/phoneCarousel/3.png";
-import carousel4 from "../assets/phoneCarousel/4.png";
-import carousel5 from "../assets/phoneCarousel/5.png";
-import carousel6 from "../assets/phoneCarousel/6.png";
-import carousel7 from "../assets/phoneCarousel/7.png";
-import carousel8 from "../assets/phoneCarousel/8.png";
-import carousel9 from "../assets/phoneCarousel/9.png";
+import carousel1 from "../../assets/phoneCarousel/1.png";
+import carousel2 from "../../assets/phoneCarousel/2.png";
+import carousel3 from "../../assets/phoneCarousel/3.png";
+import carousel4 from "../../assets/phoneCarousel/4.png";
+import carousel5 from "../../assets/phoneCarousel/5.png";
+import carousel6 from "../../assets/phoneCarousel/6.png";
+import carousel7 from "../../assets/phoneCarousel/7.png";
+import carousel8 from "../../assets/phoneCarousel/8.png";
+import carousel9 from "../../assets/phoneCarousel/9.png";
 
 import { MdOutlineNavigateNext } from "react-icons/md";
 import { GrFormPrevious } from "react-icons/gr";

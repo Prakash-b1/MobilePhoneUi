@@ -1,4 +1,4 @@
-import fusion from "../assets/Rectangle 293029766.svg"
+import fusion from "../../assets/Rectangle 293029766.svg"
 const DeviceSpecs = () => {
     return (
         <div className="flex justify-center items-center h-screen bg-[#c0e898]">

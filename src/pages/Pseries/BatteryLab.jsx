@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import phoness from "../assets/PHONE2.svg";
+import phoness from "../../assets/PHONE2.svg";
 
 const BatteryLab = () => {
     const [showPoints, setShowPoints] = useState([]);

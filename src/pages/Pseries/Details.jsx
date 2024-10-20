@@ -1,7 +1,7 @@
-import img2 from "../assets/bgimg.jpeg"
-import phone3 from "../assets/phone3.svg"
-import phone4 from "../assets/phone4.svg"
-import phone5 from "../assets/phone5.svg"
+import img2 from "../../assets/bgimg.jpeg"
+import phone3 from "../../assets/phone3.svg"
+import phone4 from "../../assets/phone4.svg"
+import phone5 from "../../assets/phone5.svg"
 import { CiCamera } from "react-icons/ci";
 
 const Details = () => {

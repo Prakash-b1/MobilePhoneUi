@@ -1,5 +1,5 @@
-import img1 from '../assets/img1.svg';
-import img2 from '../assets/bgimg.jpeg';
+import img1 from '../../assets/img1.svg';
+import img2 from '../../assets/bgimg.jpeg';
 import { AiFillThunderbolt } from "react-icons/ai";
 import { FaArrowRight } from "react-icons/fa6";
 

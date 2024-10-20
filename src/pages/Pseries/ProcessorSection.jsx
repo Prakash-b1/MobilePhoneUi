@@ -1,5 +1,5 @@
-import processChip from "../assets/chip.png";
-import unisocLogo from "../assets/unisocLogo.svg";
+import processChip from "../../assets/chip.png";
+import unisocLogo from "../../assets/unisocLogo.svg";
 
 const ProcessorSection = () => {
     return (
